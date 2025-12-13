@@ -1,4 +1,4 @@
-# 👨‍💻 Yuri Leal
+# 👨‍💻yuriOleal
 
 **`Desenvolvedor Full Stack | C# • SQL • Web`**
 
