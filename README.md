@@ -1,25 +1,21 @@
-# 👨‍💻yuriOleal
+# 👨‍💻 yuriOleal
 
-**`Desenvolvedor Full Stack | C# • SQL • Web`**
+**`Desenvolvedor Full Stack | C# • ASP.NET Core • SQL • Web`**
 
-Olá! Me chamo **Yuri Henrique Ferreira Leal**, sou desenvolvedor e apaixonado por tecnologia e criação de soluções digitais. Atuo principalmente com **desenvolvimento web** e **back-end**, sempre focado em projetos práticos, bem estruturados e prontos para o mercado.
+Olá! Me chamo **Yuri Henrique Ferreira Leal**, sou desenvolvedor e apaixonado por tecnologia e criação de soluções digitais. Atuo principalmente com **desenvolvimento web e back-end**, sempre focado em projetos práticos, bem estruturados e alinhados com boas práticas de mercado.
 
-Atualmente, estou aprofundando meus conhecimentos em **C#**, **banco de dados SQL** e **desenvolvimento de aplicações web**, além de trabalhar com criação de sites profissionais e automações.
+Atualmente, estou aprofundando meus conhecimentos em **C#**, **ASP.NET Core**, **banco de dados SQL** e **desenvolvimento de aplicações web**, além de trabalhar com criação de sites profissionais, APIs e automações.
 
-🚀 **Objetivo:** Evoluir como desenvolvedor, construir projetos reais para portfólio e atuar profissionalmente na área de tecnologia.
+🎯 **Objetivo:** Evoluir como desenvolvedor, construir projetos reais para portfólio e atuar profissionalmente na área de tecnologia.
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-    <a href="https://github.com/YuriLeal">
-        <img
-            alt="GitHub followers"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/YuriLeal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/yuriOleal">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/yuriOleal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -34,30 +30,62 @@ Atualmente, estou aprofundando meus conhecimentos em **C#**, **banco de dados SQ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
 </p>
 
+---
 
-<br/>
-<br/>
+## 📚 Conhecimentos Técnicos
+
+### 🔹 Back-end
+
+* C# | ASP.NET Core | Entity Framework Core
+* APIs REST | JWT | Autenticação e Autorização
+* Clean Code | SOLID | Padrão Repository | DTOs
+
+### 🔹 Banco de Dados
+
+* SQL Server
+* Modelagem de Dados
+* Joins, Indexes e Stored Procedures
+
+### 🔹 Front-end
+
+* HTML5 | CSS3 | JavaScript
+* Responsividade | Flexbox | Grid
+* Consumo de APIs REST
+
+### 🔹 Ferramentas & DevOps
+
+* Git & GitHub (Versionamento)
+* Docker (básico)
+* Postman | Swagger
+* VS Code | Visual Studio
+* Linux (básico)
+
+### 🔹 Deploy & Infraestrutura
+
+* VPS | Hostinger
+* IIS
+* Conceitos básicos de CI/CD (GitHub Actions)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=YuriLeal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=yuriOleal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img
- align="left"
- alt="Linguagens mais usadas"
- height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+<img 
+ align="left" 
+ alt="Linguagens mais usadas" 
+ height="200" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriOleal&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
 />
 
 </p>
