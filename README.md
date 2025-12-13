@@ -8,18 +8,6 @@ Atualmente, estou aprofundando meus conhecimentos em **C#**, **ASP.NET Core**, *
 
 🎯 **Objetivo:** Evoluir como desenvolvedor, construir projetos reais para portfólio e atuar profissionalmente na área de tecnologia.
 
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/yuriOleal">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/yuriOleal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧠 Tecnologias e Ferramentas
 
 <p align="left">
