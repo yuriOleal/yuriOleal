@@ -69,27 +69,4 @@ Atualmente, estou aprofundando meus conhecimentos em **C#**, **ASP.NET Core**, *
 * IIS
 * Conceitos básicos de CI/CD (GitHub Actions)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=yuriOleal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
- align="left" 
- alt="Linguagens mais usadas" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriOleal&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-/>
-
-</p>
-
----
-
 💡 *Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.*
