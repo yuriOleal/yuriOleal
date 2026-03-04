@@ -1,12 +1,14 @@
 # 👨‍💻 yuriOleal
 
-**`Desenvolvedor Full Stack | C# • ASP.NET Core • SQL • Web`**
+**`Desenvolvedor Full Stack Web | JavaScript • Node.js • HTML • CSS • REST APIs`**
 
-Olá! Me chamo **Yuri Henrique Ferreira Leal**, sou desenvolvedor e apaixonado por tecnologia e criação de soluções digitais. Atuo principalmente com **desenvolvimento web e back-end**, sempre focado em projetos práticos, bem estruturados e alinhados com boas práticas de mercado.
+Olá! Me chamo **Yuri Henrique Ferreira Leal**, sou desenvolvedor Full Stack com foco em construção de aplicações web e soluções digitais voltadas para projetos reais.
 
-Atualmente, estou aprofundando meus conhecimentos em **C#**, **ASP.NET Core**, **banco de dados SQL** e **desenvolvimento de aplicações web**, além de trabalhar com criação de sites profissionais, APIs e automações.
+Atuo principalmente com **JavaScript**, **Node.js**, desenvolvimento de APIs REST e criação de interfaces web responsivas utilizando HTML e CSS. Tenho experiência prática na criação de sites profissionais, sistemas web, integrações com banco de dados e deploy em ambiente de produção.
 
-🎯 **Objetivo:** Evoluir como desenvolvedor, construir projetos reais para portfólio e atuar profissionalmente na área de tecnologia.
+Também possuo conhecimentos em **C# e ASP.NET Core**, ampliando minha base em desenvolvimento back-end e arquitetura de aplicações.
+
+🎯 **Objetivo:** Consolidar minha atuação como desenvolvedor Full Stack, contribuindo com projetos bem estruturados, escaláveis e alinhados às boas práticas de mercado.
 
 ## 🧠 Tecnologias e Ferramentas
 
@@ -25,36 +27,34 @@ Atualmente, estou aprofundando meus conhecimentos em **C#**, **ASP.NET Core**, *
 
 ## 📚 Conhecimentos Técnicos
 
-### 🔹 Back-end
+###🔹 Front-End
 
-* C# | ASP.NET Core | Entity Framework Core
-* APIs REST | JWT | Autenticação e Autorização
-* Clean Code | SOLID | Padrão Repository | DTOs
+* HTML5
 
-### 🔹 Banco de Dados
+* CSS3
+
+* JavaScript
+
+###🔹 Back-End
+
+Node.js
+
+* Express
+
+* APIs REST
+
+* Autenticação
+
+###🔹 Banco de Dados
+
+* MySQL
+
+###🔹 Conhecimentos Adicionais
+
+* C#
+
+* ASP.NET Core
 
 * SQL Server
-* Modelagem de Dados
-* Joins, Indexes e Stored Procedures
-
-### 🔹 Front-end
-
-* HTML5 | CSS3 | JavaScript
-* Responsividade | Flexbox | Grid
-* Consumo de APIs REST
-
-### 🔹 Ferramentas & DevOps
-
-* Git & GitHub (Versionamento)
-* Docker (básico)
-* Postman | Swagger
-* VS Code | Visual Studio
-* Linux (básico)
-
-### 🔹 Deploy & Infraestrutura
-
-* VPS | Hostinger
-* IIS
-* Conceitos básicos de CI/CD (GitHub Actions)
 
 💡 *Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.*
