@@ -27,7 +27,7 @@ Também possuo conhecimentos em **C# e ASP.NET Core**, ampliando minha base em d
 
 ## 📚 Conhecimentos Técnicos
 
-###🔹 Front-End
+##🔹 Front-End
 
 * HTML5
 
@@ -35,7 +35,7 @@ Também possuo conhecimentos em **C# e ASP.NET Core**, ampliando minha base em d
 
 * JavaScript
 
-###🔹 Back-End
+##🔹 Back-End
 
 Node.js
 
@@ -45,11 +45,11 @@ Node.js
 
 * Autenticação
 
-###🔹 Banco de Dados
+##🔹 Banco de Dados
 
 * MySQL
 
-###🔹 Conhecimentos Adicionais
+##🔹 Conhecimentos Adicionais
 
 * C#
 
