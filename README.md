@@ -169,18 +169,6 @@ Formação voltada para:
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriOleal&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriOleal&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌎 Onde me Encontrar
 
 📧 Email: yurilisco@gmail.com
